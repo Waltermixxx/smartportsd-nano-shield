@@ -1,5 +1,8 @@
 # smartport-nano-shield with 20pin IDC
 
+the zip file called SmartPortSD-Nano-Shield-Main-20IDC.PIZ  (rename to zip)  has the kicad files, the new gerbers etc. :)
+please view the gerbers before ordering board just to make sure this is the correct file. :)
+
 
 This is a custom PCB from DJTERSTEEGC, with an IDC connector to run the SmartportSD FAT code from Katherine Stark (based on the work of Robert Justice and Andrea Ottaviani) allowing you to connect a 32MB ProDOS partition to your SmartPort enabled Apple II (IIc, IIc+, IIgs).  Yes, it works with Total Replay.
 
