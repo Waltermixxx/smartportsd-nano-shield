@@ -1,6 +1,6 @@
 # smartport-nano-shield with 20pin IDC
 
-the zip file called SmartPortSD-Nano-Shield-Main-20IDC.PIZ  (rename to zip)  has the kicad files, the new gerbers etc. :)
+the zip file called SmartPortSD-Nano-Shield-Main-20IDC.ZIP has the kicad files, the new gerbers etc. :)
 please view the gerbers before ordering board just to make sure this is the correct file. :)
 
 
