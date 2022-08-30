@@ -1,5 +1,5 @@
-# smartport-nano-shield
-![assembled](docs/combined-boards.jpg)
+# smartport-nano-shield with 20pin IDC
+
 
 This is a custom PCB to run the SmartportSD FAT code from Katherine Stark (based on the work of Robert Justice and Andrea Ottaviani) allowing you to connect a 32MB ProDOS partition to your SmartPort enabled Apple II (IIc, IIc+, IIgs).  Yes, it works with Total Replay.
 
