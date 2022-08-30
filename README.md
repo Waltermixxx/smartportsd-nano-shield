@@ -11,9 +11,7 @@ All components can be sourced from the usual low cost China based vendors for a 
 
 [Hardware Component Choices and Assembly](https://djtersteegc.github.io/smartportsd-nano-shield/assembly.html)
 
-An interactive BOM and parts placement diagram is also available.
-
-[Interactive Bill of Materials (BOM)](https://djtersteegc.github.io/smartportsd-nano-shield/ibom.html)
+Please see the original version of this board for the interactive BOM and component placement, the only thing that changed is the IDC20 pin.
 
 If you wish to power your board from the 5V SmartPort line, simply install and close jumper JP1.  Be warned there is no protection on the board from back feeding voltage into the Apple host computer if you also power the Arduino via the USB connector, so only close this jumper when not using another power source on the Arduino.
 
